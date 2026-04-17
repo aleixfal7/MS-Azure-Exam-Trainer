@@ -1,0 +1,20 @@
+{
+  "exam_id": "SC-400",
+  "lang": "en",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "Multiple Choice",
+      "text": "Your company is implementing Microsoft Purview Information Protection. You need to identify sensitive information in emails automatically before they are sent. Which feature should you configure?",
+      "options": [
+        "A. Sensitivity labels with auto-labeling policies",
+        "B. Data loss prevention (DLP) policies",
+        "C. Retention labels",
+        "D. Insider risk management"
+      ],
+      "answer": "A",
+      "explanation": "Sensitivity labels with auto-labeling policies can automatically identify sensitive information in emails and documents and apply the appropriate label, providing continuous protection.",
+      "translation_es": "Tu empresa está implementando Microsoft Purview Information Protection. Necesitas identificar información confidencial en los correos electrónicos de forma automática antes de que se envíen. ¿Qué característica debes configurar? \n\nA. Etiquetas de confidencialidad con directivas de etiquetado automático \nB. Directivas de prevención de pérdida de datos (DLP) \nC. Etiquetas de retención \nD. Administración de riesgos internos"
+    }
+  ]
+}
